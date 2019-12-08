@@ -68,7 +68,7 @@ es:
   BUTTON_BUILD: Construir
   BUTTON_PAY: Pagar
   BUTTON_UPDATE: Actualizar
-  BUTTON_EDIT: Tratar
+  BUTTON_EDIT: Editar
   
   # Etiquetas, descripciones
   LABEL_FEATURE_LIST: Lista de características
@@ -127,8 +127,8 @@ es:
   LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "Música orquestal"
   LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "Música interactiva"
   LABEL_GAME_ENGINE_PASSWORD_SAVE: "Guardar con contraseña"
-  LABEL_GAME_ENGINE_BASIC_SAVE: "Ahorra"
-  LABEL_GAME_ENGINE_CLOUD_SAVE: "La nube ahorra"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "Guardar"
+  LABEL_GAME_ENGINE_CLOUD_SAVE: "Guardar en la nube"
   LABEL_GAME_ENGINE_BASIC_PHYSICS: "Física básica"
   LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "Física avanzada"
   LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "Física realista"
@@ -195,7 +195,7 @@ es:
     Añade soporte multiplataforma.
   LABEL_DS_BOTPROTECTION_TITLE: Protección de bots
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
-    Mitigación de ataques de bots.
+    Protección anti bots.
   LABEL_DS_WORKSHOP_TITLE: Workshop
   LABEL_DS_WORKSHOP_DESCRIPTION: |
     Permite a los usuarios compartir los mods que han creado.
@@ -236,9 +236,9 @@ es:
     para iniciar la descarga.
   LABEL_CLOSE_POPUP: Cierra la ventana emergente para continuar
   LABEL_CLOSE_CAT_POPUP: |
-    Cierra las ventanas emergentes del
-    gato para seguir descargando
-  LABEL_SETTING_UP_FIREWALL: Configuración del cortafuegos
+    Cierra las ventanas emergentes de
+    gatos para seguir descargando
+  LABEL_SETTING_UP_FIREWALL: Configuración del firewall
   LABEL_PRESS_ANY_KEY: Presiona cualquier tecla para hackear
   LABEL_HACKED: |
     Hackeo completo.
@@ -248,7 +248,7 @@ es:
     Para hackear, haz clic en 'Comenzar'.
   LABEL_OPEN_CONSOLE: Haz clic en 'Comenzar' para hackear
   LABEL_DOWNLOADING: Descargando
-  LABEL_TARGET_LOCALIZING: Intrusión detectada
+  LABEL_TARGET_LOCALIZING: Intruso detectado
   LABEL_CONNECTION_LOST: Conexión perdida
   LABEL_ACCESS_GRANTED: Acceso concedido
   LABEL_CLICK_FOR_ACTION: Haz clic para abrir el menú
@@ -325,8 +325,8 @@ es:
   LABEL_LOW_CONFIGURATION: Configuración baja
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
     Usa el ratón para mover la pantalla
-  LABEL_WEEK: semanas
-  LABEL_TOOLS: Hecho con
+  LABEL_WEEK: Semanas
+  LABEL_TOOLS: Herramientas
   LABEL_SANDBOX: Modo sandbox
   LABEL_SAVING: Guardando partida
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Pagos de compensación
